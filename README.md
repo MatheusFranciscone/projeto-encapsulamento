@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/MatheusFranciscone/projeto-comissao/blob/master/comissao.png">
+<img src="https://github.com/MatheusFranciscone/projeto-encapsulamento/blob/master/logo-market.png">
 </p>
 
 # Projeto Encapsulamento
