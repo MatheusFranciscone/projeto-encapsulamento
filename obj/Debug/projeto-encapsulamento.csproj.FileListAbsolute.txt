@@ -1,0 +1,10 @@
+C:\Users\franc\Desktop\projeto-encapsulamento\bin\Debug\projeto-encapsulamento.exe.config
+C:\Users\franc\Desktop\projeto-encapsulamento\bin\Debug\projeto-encapsulamento.exe
+C:\Users\franc\Desktop\projeto-encapsulamento\bin\Debug\projeto-encapsulamento.pdb
+C:\Users\franc\Desktop\projeto-encapsulamento\obj\Debug\projeto-encapsulamento.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\projeto-encapsulamento\obj\Debug\projeto_encapsulamento.Properties.Resources.resources
+C:\Users\franc\Desktop\projeto-encapsulamento\obj\Debug\projeto-encapsulamento.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\projeto-encapsulamento\obj\Debug\projeto-encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\projeto-encapsulamento\obj\Debug\projeto-encapsulamento.exe
+C:\Users\franc\Desktop\projeto-encapsulamento\obj\Debug\projeto-encapsulamento.pdb
+C:\Users\franc\Desktop\projeto-encapsulamento\obj\Debug\projeto_encapsulamento.frm_Calcular.resources
