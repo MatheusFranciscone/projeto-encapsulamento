@@ -3,7 +3,7 @@
 </p>
 
 # Projeto Encapsulamento
-Implementação do Encapsulamento de Classes em Orientação a Objetos através de um formulário para calcular 
+Implementação do Encapsulamento de Classes em Orientação a Objetos através de um formulário para calcular valores de produtos de supermercados.
  
 ## O projeto foi desenvolvido através da linguagem: 
  * C#
